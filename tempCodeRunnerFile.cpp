@@ -1,0 +1,2 @@
+
+    cout<<stringcount(s1);
