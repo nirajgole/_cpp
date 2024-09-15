@@ -1,0 +1,3 @@
+﻿  print_characters.cpp
+C:\Users\Gigabyte\Desktop\C\C\Matrix_arithmatics\print_characters.cpp(4,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+  Matrix_arithmatics.vcxproj -> C:\Users\Gigabyte\Desktop\C\C\Debug\Matrix_arithmatics.exe
